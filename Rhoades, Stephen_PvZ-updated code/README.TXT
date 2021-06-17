@@ -6,7 +6,7 @@ all he/she needs to know. The comments should usually include at least:
 
 PROJECT TITLE: Plants vs Zombies
 PURPOSE OF PROJECT: to code out a basic version of the game Plants vs Zombies
-VERSION or DATE: 
-HOW TO START THIS PROJECT:
+VERSION or DATE: last edited 6/17/2021
+HOW TO START THIS PROJECT: download greenfoot and run the project file using greenfoot. updated to version 3.6.1
 AUTHORS: Stephen Rhoades
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: you need to download the PvZ image file and add it to this file for the greenfoot prject to run properly with images.
